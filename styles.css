@@ -1,7 +1,7 @@
 body{
     margin: 0;
     background: powderblue;
-    text-align: 50;
+    text-align: center;
 }
 .fadeup {
     transform: translateY(50px);
