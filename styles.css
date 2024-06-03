@@ -5,9 +5,17 @@ body{
     text-align: center;
     color:darkslategray;
 }
-h1,h2{
+h1{
     margin: 0;
     background: powderblue;
+    font-family: "monaco", monospace;
+    text-align: center;
+    color:darkslategray;
+}
+h2{
+    margin: 0;
+    background: powderblue;
+    font-family: "comic sans", sans-serif;
     text-align: center;
     color:darkslategray;
 }
