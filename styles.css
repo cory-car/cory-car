@@ -19,13 +19,13 @@ h1{
     text-align: center;
     color:darkslategray;
 }
-h3{
+/*h3{
     margin: 0;
     background: powderblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     color:darkslategray;
-}
+}*/
 section{
      display: flex;
      flex-direction: column;
