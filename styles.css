@@ -21,8 +21,8 @@ h1{
 }
 h3{
     margin: 0;
-    background: powderblue;
-    /*font-family: CuteDino;*/
+    background: red;/*powderblue;*/
+    font-family: CuteDino;
     text-align: center;
     color:darkslategray;
 }
