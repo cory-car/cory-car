@@ -3,6 +3,46 @@
     font-family: CuteDino;
     src: url('/cory-car/assets/fonts/Cute\ Dino.otf');
 }
+@font-face {
+    font-family: CatComic;
+    src: url('/cory-car/assets/fonts/Cat\ Comic.ttf');
+}
+@font-face {
+    font-family: CatSong;
+    src: url('/cory-car/assets/fonts/Cat\ Song.otf');
+}
+@font-face {
+    font-family: DatangStory;
+    src: url('/cory-car/assets/fonts/Datang\ Story.otf');
+}
+@font-face {
+    font-family: FlyLegs;
+    src: url('/cory-car/assets/fonts/FlyLegs.otf');
+}
+@font-face {
+    font-family: KindSansThin;
+    src: url('/cory-car/assets/fonts/Kind\ Sans\ Thin.otf');
+}
+@font-face {
+    font-family: LTSuperiorMono-Regular;
+    src: url('/cory-car/assets/fonts/LTSuperiorMono-Regular.otf');
+}
+@font-face {
+    font-family: NataSans-Regular;
+    src: url('/cory-car/assets/fonts/NataSans-Regular.otf');
+}
+@font-face {
+    font-family: Padpattfonts-Regular;
+    src: url('/cory-car/assets/fonts/Padpattfonts-Regular.otf');
+}
+@font-face {
+    font-family: Sedan-Regular;
+    src: url('/cory-car/assets/fonts/Sedan-Regular.ttf');
+}
+@font-face {
+    font-family: SnackBox;
+    src: url('/cory-car/assets/fonts/Snack\ Box.otf');
+}
 
 
 
@@ -22,7 +62,7 @@ h1{
 h3{
     margin: 0;
     background:powderblue;
-    font-family: CuteDino;
+    font-family: KindSansThin;
     text-align: center;
     color:darkslategray;
 }
