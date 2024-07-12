@@ -53,6 +53,12 @@ body{
     text-align: center;
     color:darkslategray;
 }
+ul{
+    list-style-type: square;
+    font-family: SnackBox;
+    margin: 0;
+    padding: 0;
+}
 h1{
     margin: 0;
     background: powderblue;
